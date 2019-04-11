@@ -30,6 +30,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Run App
   1. Start the app by opening Visual studio or command line and navigating to the folder where your work is
+  
    `npm start`
   2. Go to your browser and open http://localhost:3000/
 
