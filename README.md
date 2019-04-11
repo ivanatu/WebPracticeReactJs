@@ -1,9 +1,5 @@
 
 
-[![Build Status](https://travis-ci.org/ivanatu/Shopping_list_ReactJS.svg?branch=ft_creating_components)](https://travis-ci.org/ivanatu/Shopping_list_ReactJS)
-
-[![Coverage Status](https://coveralls.io/repos/github/ivanatu/Shopping_list_ReactJS/badge.svg?branch=ft_creating_components)](https://coveralls.io/github/ivanatu/Shopping_list_ReactJS?branch=ft_creating_components)
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
@@ -25,7 +21,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Installation
   1. Make directory to where you want you application will be stored e.g
    `mkdir Myapp`
-  2. Clone the repo using gitclone
+  2. Clone the repo using gitclone into the empty directory you just created
    `git clone https://github.com/ivanatu/WebPracticeReactJs.git`
   3. Navigate to the clone directory.
    `cd WebPracticeReactJs`
@@ -35,6 +31,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Run App
   1. Start the app by opening Visual studio or command line and navigating to the folder where your work is
    `npm start`
+  2. Go to your browser and open http://localhost:3000/
 
 ### Run tests
   1. Running the tests normally
